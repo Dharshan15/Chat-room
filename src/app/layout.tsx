@@ -6,7 +6,7 @@ import ContextProvider from "@/components/context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chat off",
+  title: "Chat offfff",
   description: "Chat with anyone with just a link",
 };
 
